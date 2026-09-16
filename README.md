@@ -7,9 +7,9 @@ This application was emulated, tested, and debugged using Android Studio IDE and
 
 
 ## Accreditation
-Levi Moreau - UI/UX, Interactivity and Metrics
-Jiro Roales - Game Mechanics
-Theo Sanchez - Persistent Data Storage 
+- Levi Moreau - UI/UX, Interactivity and Metrics
+- Jiro Roales - Game Mechanics
+-  Theo Sanchez - Persistent Data Storage 
 
 
 
