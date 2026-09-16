@@ -1,4 +1,4 @@
-## Rhythm Tiles
+# Rhythm Tiles
 Rhythm Tiles is a mobile application game designed to be a fun ear-training and muscle memory exercise with popular music variety for users.  
 The tech stack utilizes a React Native Framework with JSX elements to create a structured and presentable application that lays the foundation for improved functionality and feature additions.
 This application was emulated, tested, and debugged using Android Studio IDE and is the suggested method for system building with its Gradle compiler and native android application development capabilties.
@@ -18,31 +18,23 @@ Theo Sanchez - Persistent Data Storage
 
 /**\*** ENVIRONMENT INSTALLATION PROCEDURES **\***\
 
-# npm req
+## npm req
 
 npm install @react-navigation/native @react-navigation/native-stack
 
-# npm req
-
 npm install react-native-gesture-handler react-native-safe-area-context react-native-screens
-
-# npm req
 
 npm install react-native-linear-gradient
 
-# npm req
-
 npm install react-native-sound
-
-# npm req
 
 npm install react-native-async-storage/async-storage
 
-# npm
+## npm
 
 npm start -- --reset-cache
 
-# CLI
+## CLI
 
 npx react-native start --reset-cache
 
