@@ -16,7 +16,7 @@ This application was emulated, tested, and debugged using Android Studio IDE and
 
 
 
-/**\*** ENVIRONMENT INSTALLATION PROCEDURES **\***\
+# ** ENVIRONMENT INSTALLATION PROCEDURES **
 
 ## npm req
 
