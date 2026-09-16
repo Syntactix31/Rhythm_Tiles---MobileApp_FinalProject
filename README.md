@@ -1,7 +1,5 @@
 # Rhythm Tiles
-Rhythm Tiles is a mobile application game designed to be a fun ear-training and muscle memory exercise with popular music variety for users.  
-The tech stack utilizes a React Native Framework with JSX elements to create a structured and presentable application that lays the foundation for improved functionality and feature additions.
-This application was emulated, tested, and debugged using Android Studio IDE and is the suggested method for system building with its Gradle compiler and native android application development capabilties.
+Rhythm Tiles is a mobile application game designed to be a fun ear-training and muscle memory exercise with popular music variety for users. The tech stack utilizes a React Native Framework with JSX elements to create a structured and presentable application that lays the foundation for improved functionality and feature additions. This application was emulated, tested, and debugged using Android Studio IDE and is the suggested method for system building with its Gradle compiler and native android application development capabilties.
 
 
 
@@ -10,6 +8,7 @@ This application was emulated, tested, and debugged using Android Studio IDE and
 - Levi Moreau - UI/UX, Interactivity and Metrics
 - Jiro Roales - Game Mechanics
 -  Theo Sanchez - Persistent Data Storage 
+
 
 
 
