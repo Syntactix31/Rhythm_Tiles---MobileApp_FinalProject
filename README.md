@@ -15,7 +15,7 @@ Rhythm Tiles is a mobile application game designed to be a fun ear-training and 
 
 
 
-# ** ENVIRONMENT INSTALLATION PROCEDURES **
+## ** ENVIRONMENT INSTALLATION PROCEDURES **
 
 ## npm req
 
