@@ -29,7 +29,7 @@ npm install react-native-sound
 
 npm install react-native-async-storage/async-storage
 
-## npm
+## npm debugging
 
 npm start -- --reset-cache
 
